@@ -1,0 +1,33 @@
+.inf p{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 1.62em;
+    margin-top: 9px;
+}
+
+.inf img{
+    width: 1170px;
+}
+
+.source {
+    color: rgb(121, 122, 122);
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.source:hover {
+    color: black;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.footer-text {
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    padding: 114px 0;
+}
+
+.footer-text p {
+    margin-right: 67px;
+}
